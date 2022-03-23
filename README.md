@@ -1,2 +1,2 @@
-# My_SLAM_study
+# My_SLAM_Study
 Record relevant information about my own learning SLAM
